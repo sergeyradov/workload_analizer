@@ -1,0 +1,30 @@
+max_tpm_all_transactions = 2750
+total_hits = 115709, percentage = 32.43%, max_tpm=168 POST /servlets/2452328105705Dispatch/id/jspforward?xxx
+total_hits = 34554, percentage = 9.69%, max_tpm=24 GET /
+total_hits = 109906, percentage = 30.81%, max_tpm=151 GET /servlets/2452328105705Dispatch/id/jspforward?xxx
+total_hits = 3130, percentage = 0.88%, max_tpm=7 GET /servlets/OMDSDispatch/id/Call?xxx
+total_hits = 15106, percentage = 4.24%, max_tpm=30 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/device_strings/ios/languages.json HTTP/1.1
+total_hits = 15134, percentage = 4.25%, max_tpm=25 GET /servlets/2452685121527Dispatch/id/jspforward?xxx
+total_hits = 78, percentage = 0.03%, max_tpm=2 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/images/radio/electronica128.jpg HTTP/1.1
+total_hits = 431, percentage = 0.13%, max_tpm=3 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/images/radio/ChillOut150.jpg HTTP/1.1
+total_hits = 706, percentage = 0.2%, max_tpm=5 GET /hostshops/247/type_c/sites/dlmediade2453802144303/public/css/autocomplete.css HTTP/1.1
+total_hits = 469, percentage = 0.14%, max_tpm=4 GET /hostshops/247/type_c/sites/saturn-downloadde2453623120137/public/css/tfs-shop-functionhooks-1.0.0.css HTTP/1.1
+total_hits = 115, percentage = 0.04%, max_tpm=2 GET /hostshops/247/type_c/sites/saturn-downloadde2453623120137/public/img/bg/bg_gradient_236.gif HTTP/1.1
+total_hits = 105, percentage = 0.03%, max_tpm=3 GET /hostshops/247/type_c/sites/saturn-downloadde2453623120137/public/img/stars/ui.stars.gif HTTP/1.1
+total_hits = 132, percentage = 0.04%, max_tpm=3 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/css/screen.css HTTP/1.1
+total_hits = 415, percentage = 0.12%, max_tpm=5 GET /favicon.ico HTTP/1.1
+total_hits = 185, percentage = 0.06%, max_tpm=3 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/images/radio/minimal128.jpg HTTP/1.1
+total_hits = 114, percentage = 0.04%, max_tpm=2 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/images/radio/hiphop128.jpg HTTP/1.1
+total_hits = 75, percentage = 0.03%, max_tpm=2 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/images/radio/alternative128.jpg HTTP/1.1
+total_hits = 34, percentage = 0.01%, max_tpm=1 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/images/layout/share_icon_fb.png HTTP/1.1
+total_hits = 25, percentage = 0.01%, max_tpm=1 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/images/layout/share_icon_tw.png HTTP/1.1
+total_hits = 645, percentage = 0.19%, max_tpm=4 GET /hostshops/247/type_c/sites/dlmediade2453802144303/public/css/screen.css HTTP/1.1
+total_hits = 658, percentage = 0.19%, max_tpm=6 GET /hostshops/247/type_c/sites/dlmediade2453802144303/public/css/ui.stars.css HTTP/1.1
+total_hits = 687, percentage = 0.2%, max_tpm=5 GET /hostshops/247/type_c/sites/dlmediade2453802144303/public/js/jq.tooltip.js HTTP/1.1
+total_hits = 242, percentage = 0.07%, max_tpm=4 GET /hostshops/247/type_c/sites/dlmediade2453802144303/public/img/bg/smalltooltip_left.jpg HTTP/1.1
+total_hits = 684, percentage = 0.2%, max_tpm=5 GET /hostshops/247/type_c/sites/dlmediade2453802144303/public/js/swfobject.js HTTP/1.1
+total_hits = 472, percentage = 0.14%, max_tpm=4 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/images/radio/indie150.jpg HTTP/1.1
+total_hits = 91, percentage = 0.03%, max_tpm=2 GET /hostshops/247/type_c/sites/wwwmyjukecom/public/images/radio/60s128.jpg HTTP/1.1
+total_hits = 658, percentage = 0.19%, max_tpm=5 GET /hostshops/247/type_c/sites/dlmediade2453802144303/public/css/tfs-shop-functionhooks-1.0.0.css HTTP/1.1
+total_hits = 471, percentage = 0.14%, max_tpm=4 GET /hostshops/247/type_c/sites/saturn-downloadde2453623120137/public/js/jq.tooltip.js HTTP/1.1
+total_hits = 115, percentage = 0.04%, max_tpm=2 GET /hostshops/247/type_c/sites/saturn-downloadde2453623120137/public/img/ico/delta_up.png HTTP/1.1

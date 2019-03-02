@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    application (0.0.2)
+    csv (3.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  application
+  csv
+
+BUNDLED WITH
+   1.16.1
